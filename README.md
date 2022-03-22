@@ -1,19 +1,8 @@
 ## Desenvolvedor Web Fullstack
 
-<!--
-**Reflixzinhu/Reflixzinhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou estudando programação à 6 meses, fiz alguns projetos e planejo melhorar à cada dia.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Atualmente estou estudando Typescript, Styled Components, Responsividade e Jest.
 
 <div>
   <a href="https://github.com/Reflixzinhu">
@@ -34,3 +23,10 @@ Here are some ideas to get you started:
     <img align="center" alt="Reflix-Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
   </a>
 </div>
+<div style="display: inline_block"><br>
+  <h3>E estou estudando:</h3>
+  <a href="https://github.com/Reflixzinhu">
+    <img align="center" alt="Reflix-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
+  </a>
+</div>
+
