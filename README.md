@@ -6,8 +6,8 @@ Estou estudando programação à 6 meses, fiz alguns projetos e planejo melhorar
 
 <div>
   <a href="https://github.com/offreflix">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Reflixzinhu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reflixzinhu&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=offreflix&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=offreflix&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
 
@@ -25,7 +25,7 @@ Estou estudando programação à 6 meses, fiz alguns projetos e planejo melhorar
 </div>
 <div style="display: inline_block"><br>
   <h3>E estou estudando:</h3>
-  <a href="https://github.com/Reflixzinhu">
+  <a href="https://github.com/offreflix">
     <img align="center" alt="Reflix-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
   </a>
 </div>
