@@ -5,7 +5,7 @@ Estou estudando programação à 6 meses, fiz alguns projetos e planejo melhorar
 - Atualmente estou estudando Typescript, Styled Components, Responsividade e Jest.
 
 <div>
-  <a href="https://github.com/Reflixzinhu">
+  <a href="https://github.com/offreflix">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Reflixzinhu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reflixzinhu&layout=compact&langs_count=7&theme=dracula"/>
   </a>
@@ -13,7 +13,7 @@ Estou estudando programação à 6 meses, fiz alguns projetos e planejo melhorar
 
 <div style="display: inline_block"><br>
   <h3>Atualmente trabalho com as seguintes tecnologias:</h3>
-  <a href="https://github.com/Reflixzinhu">
+  <a href="https://github.com/offreflix">
     <img align="center" alt="Reflix-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Reflix-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img align="center" alt="Reflix-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
